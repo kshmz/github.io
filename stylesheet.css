@@ -1,0 +1,14 @@
+.content h1{
+  color: red;
+  text-align: center;
+}
+
+.content span {
+  color: green;
+}
+
+.content p1 {
+  color: blue;
+  font-size: 30px;
+
+}
